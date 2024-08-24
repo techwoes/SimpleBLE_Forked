@@ -23,14 +23,6 @@ This repository offers the source code for the following related libraries:
 * **SimpleBluez:** C++ abstraction layer for BlueZ over DBus. (Linux only)
 * **SimpleDBus:** C++ wrapper for libdbus-1 with convenience classes to handle DBus object hierarchies effectively. (Linux only)
 
-If you want to use SimpleBLE and need help. **Please do not hesitate to reach out!**
-
-* Visit our `ReadTheDocs`_ page.
-* Join our `Discord`_ server.
-* Contact me: ``kevin at dewald dot me`` (Dedicated consulting services available)
-
-Are you using SimpleBLE on your own project and would like to see it featured here?
-Reach out and I'll add a link to it below!
 
 Supported platforms
 -------------------
@@ -50,10 +42,10 @@ Don't forget to check out the following projects using SimpleBLE:
 * `BrainFlow`_
 * `InsideBlue`_
 
-Contributing
-------------
-Pull requests are welcome. For major changes, please open an issue first to discuss
-what you would like to change.
+Notes
+----- 
+
+Forked at 0.6.1, license switched to GPL with 0.7.0 
 
 License
 -------
